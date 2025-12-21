@@ -1,4 +1,4 @@
-# Vision-Acoustic-Emission-with-Mixed-Attention-model
+# VAE-with-Mixed-Attention-model
 
 ## Mixed attention fusion model
 The core of this method involves a hybrid attention model that combines self-attention and cross-attention mechanisms. These are essential for fusing multi-modal data (images and AE features).
