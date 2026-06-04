@@ -2,6 +2,7 @@
 
 ## Mixed attention fusion model
 The core of this method involves a hybrid attention model that combines self-attention and cross-attention mechanisms. These are essential for fusing multi-modal data (images and AE features).
+<img width="2059" height="633" alt="image_1" src="https://github.com/user-attachments/assets/4f959cf2-a1b5-46ff-9118-8403c1814eba" />
 
 ### Inter-model self-attention
 Visual branching: Capturing local-global dependencies of cracked regions through spatial self-attention, focusing on key visual features such as edges and textures.
